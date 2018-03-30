@@ -12,5 +12,5 @@ function johnLennonFacts(facts) {
   while (i< facts.length) {
     line.push(facts[i]+`!`)
     i++
-  }
+  }return line
 }
