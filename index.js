@@ -14,3 +14,5 @@ function johnLennonFacts(facts) {
     i++
   }return line
 }
+
+function 
