@@ -22,6 +22,7 @@ function iLoveTheBeatles(n){
     n++;
   }while (n< 15);
   if (n >= 15) {
-    line= 
+    line= ["I love the Beatles!"]
   }
+  return line;
 }
