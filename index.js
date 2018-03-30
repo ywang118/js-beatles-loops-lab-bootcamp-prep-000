@@ -10,7 +10,7 @@ function johnLennonFacts(facts) {
   var line = []
   let i = 0 
   while (i< facts.length) {
-    line.push(facts[i]+`!`)
+    line.push(facts[i]+`!!!`)
     i++
   }return line
 }
